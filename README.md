@@ -1,1 +1,3 @@
 # Financial-Fraud-Detection
+
+This project leverages a large-scale dataset containing over 6 million online transaction records to develop a machine learning model for detecting fraudulent activity. With 10 key attributes—including transaction type, amount, origin/destination balances, and fraud flags—the model learns patterns associated with fraudulent behavior. The goal is to automate the identification and flagging of suspicious transactions, helping financial institutions minimize losses and improve customer protection. The solution is adaptable to various datasets and supports real-time fraud detection through continuous self-learning.
